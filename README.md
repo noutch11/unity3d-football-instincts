@@ -32,6 +32,6 @@ A comprehensive multiplayer sports simulation featuring a custom authentication 
 ## Tech Stack
 * **Engine:** Unity (Legacy 2018/2019)
 * **Languages:** C#, PHP, SQL
-* **Networking:** Photon Bolt/Classic
+* **Networking:** Photon Unity Networking
 * **Database:** MySQL
 * **UI:** Legacy Unity UI System (RectTransform anchoring logic)
